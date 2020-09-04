@@ -1,7 +1,7 @@
-# Kien-Truc-May-Tinh
+## Kien-Truc-May-Tinh
 
 ## Đề 2: Hệ thống CPU
-a. các thành phần chính của CPU là gì ?
+A. các thành phần chính của CPU là gì ?
 CPU là viết tắt của Central Processing Unit (Đơn vị xử lý trung tâm). Các thành phần chính của CPU bao gồm:
 - ALU (Arithmetic Logic Unit - Đơn vị tính toán và logic): Đây là một phần của CPU được sử dụng để thực hiện các phép tính số học cơ bản như cộng, trừ, nhân, chia và các phép tính đơn giản khác như phép so sánh.
 - Register (Bộ đăng ký): Đây là các ô nhớ nhỏ và nhanh trên CPU sử dụng để lưu trữ các giá trị tạm thời khi xử lý dữ liệu.
