@@ -9,8 +9,6 @@ CPU là viết tắt của Central Processing Unit (Đơn vị xử lý trung t�
 - Cache: Đây là một bộ nhớ tạm được sử dụng để lưu trữ những dữ liệu phổ biến hay được sử dụng thường xuyên, giúp tăng tốc độ truy xuất dữ liệu của hệ thống.
 - Bus (Đường truyền dữ liệu): Bus là các đường dữ liệu truyền tải thông tin giữa các phần khác nhau của hệ thống máy tính, bao gồm RAM, ổ cứng, các thiết bị ngoại vi, vv.
 
-
 Tài liệu môn kiến trúc máy tính thầy [Ts. Phan Như Minh]()
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/MIPS_Architecture_%28Pipelined%29.svg/640px-MIPS_Architecture_%28Pipelined%29.svg.png)
-
