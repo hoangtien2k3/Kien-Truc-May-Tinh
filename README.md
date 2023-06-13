@@ -1,4 +1,5 @@
 # Kien-Truc-May-Tinh
+<<<<<<< HEAD
 
 ## Đề 2: Hệ thống CPU
 a. các thành phần chính của CPU là gì ?
@@ -71,3 +72,8 @@ b.
 
 
 
+=======
+Tài liệu môn kiến trúc máy tính thầy [Ts. Phan Như Minh]()
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/MIPS_Architecture_%28Pipelined%29.svg/640px-MIPS_Architecture_%28Pipelined%29.svg.png)
+>>>>>>> b0504fb4cf330b96d3649544ab64aaf72994f96c
