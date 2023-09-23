@@ -1,5 +1,4 @@
 # Kien-Truc-May-Tinh
-<<<<<<< HEAD
 
 ## Đề 2: Hệ thống CPU
 a. các thành phần chính của CPU là gì ?
@@ -11,69 +10,7 @@ CPU là viết tắt của Central Processing Unit (Đơn vị xử lý trung t�
 - Bus (Đường truyền dữ liệu): Bus là các đường dữ liệu truyền tải thông tin giữa các phần khác nhau của hệ thống máy tính, bao gồm RAM, ổ cứng, các thiết bị ngoại vi, vv.
 
 
-b. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
 Tài liệu môn kiến trúc máy tính thầy [Ts. Phan Như Minh]()
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/MIPS_Architecture_%28Pipelined%29.svg/640px-MIPS_Architecture_%28Pipelined%29.svg.png)
->>>>>>> b0504fb4cf330b96d3649544ab64aaf72994f96c
+
